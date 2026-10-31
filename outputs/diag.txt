@@ -1,0 +1,60 @@
+SUMMARY OF CORRELATIONS (Pearson; phi coefficient for 0/1 pairs)
+Data file: dataor.xlsx (sheet 1) | Run: 2026-10-28 14:38
+Topic selection: p < 0.05 | per c variable: 2 highest-estimate topics +  1 most negative topic (largest magnitude)
+Significance: *** p<0.001 | ** p<0.01 | * p<0.05 | † p<0.10
+
+=== A) c1-c6 pool: correlations between all c_i and c_j pairs ===
+ Var1 Var2 N     Estimate SE     t       p      Sig
+ c1   c2   11266 -0.1016  0.0094 -10.836 <0.001 ***
+ c1   c3   11266 0.1408   0.0093 15.093  <0.001 ***
+ c1   c4   11266 -0.1487  0.0093 -15.959 <0.001 ***
+ c1   c5   11266 0.0118   0.0094 1.255   0.2094    
+ c1   c6   11266 -0.0617  0.0094 -6.557  <0.001 ***
+ c2   c3   11266 -0.0285  0.0094 -3.025  0.0025 ** 
+ c2   c4   11266 0.0240   0.0094 2.550   0.0108 *  
+ c2   c5   11266 -0.0337  0.0094 -3.584  <0.001 ***
+ c2   c6   11266 0.0125   0.0094 1.322   0.1861    
+ c3   c4   11266 -0.0008  0.0094 -0.080  0.9363    
+ c3   c5   11266 0.0466   0.0094 4.947   <0.001 ***
+ c3   c6   11266 0.0638   0.0094 6.780   <0.001 ***
+ c4   c5   11266 -0.0095  0.0094 -1.009  0.3128    
+ c4   c6   11266 0.1365   0.0093 14.626  <0.001 ***
+ c5   c6   11266 0.3704   0.0088 42.322  <0.001 ***
+
+=== B) Top topics per c variable (highest estimate, significant) ===
+
+--- c1 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c1   Topic_7  11242 0.4349   0.0085 51.208  <0.001 *** highest estimate  
+ c1   Topic_10 11242 0.4265   0.0085 49.989  <0.001 *** highest estimate  
+ c1   Topic_29 11242 -0.3300  0.0089 -37.058 <0.001 *** strongest negative
+
+--- c2 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c2   Topic_37 11242 0.6180   0.0074 83.344  <0.001 *** highest estimate  
+ c2   Topic_21 11242 0.2567   0.0091 28.158  <0.001 *** highest estimate  
+ c2   Topic_3  11242 -0.1724  0.0093 -18.553 <0.001 *** strongest negative
+
+--- c3 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c3   Topic_8  11242 0.6064   0.0075 80.847  <0.001 *** highest estimate  
+ c3   Topic_12 11242 0.4458   0.0084 52.799  <0.001 *** highest estimate  
+ c3   Topic_6  11242 -0.2067  0.0092 -22.400 <0.001 *** strongest negative
+
+--- c4 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c4   Topic_11 11242 0.4465   0.0084 52.909  <0.001 *** highest estimate  
+ c4   Topic_24 11242 0.2445   0.0091 26.734  <0.001 *** highest estimate  
+ c4   Topic_3  11242 -0.3131  0.0090 -34.948 <0.001 *** strongest negative
+
+--- c5 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c5   Topic_23 11242 0.5016   0.0082 61.469  <0.001 *** highest estimate  
+ c5   Topic_33 11242 0.3432   0.0089 38.733  <0.001 *** highest estimate  
+ c5   Topic_38 11242 -0.1402  0.0093 -15.016 <0.001 *** strongest negative
+
+--- c6 ---
+ Var1 Var2     N     Estimate SE     t       p      Sig Pick              
+ c6   Topic_4  11242 0.2844   0.0090 31.448  <0.001 *** highest estimate  
+ c6   Topic_32 11242 0.2195   0.0092 23.851  <0.001 *** highest estimate  
+ c6   Topic_3  11242 -0.1923  0.0093 -20.770 <0.001 *** strongest negative

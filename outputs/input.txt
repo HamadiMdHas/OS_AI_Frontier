@@ -1,0 +1,44 @@
+=================== Topics and FREX words ===================
+(K = 40, 15 FREX words per topic)
+
+Topic 1: solv, understand, detail, explain, math, explan, god, step, problem, mathemat, calcul, unbeliev, student, topic, exam
+Topic 2: develop, lot, seem, satisfi, analyz, stock, system, capac, behind, overal, beginn, normal, promis, logic, fact
+Topic 3: best, nice, wow, wonder, appreci, use, vari, enjoy, interest, one, imagin, grate, glad, extra, fire
+Topic 4: will, start, hope, traffic, mayb, back, anoth, soon, wait, come, type, new, session, heavi, experienc
+Topic 5: love, awesom, greatest, excel, guy, omg, job, absolut, china, done, ban, bangladesh, defeat, pakistan, proud
+Topic 6: work, load, prompt, keep, bit, issu, bug, overload, proper, mobil, anymor, edit, due, fix, moment
+Topic 7: free, perfect, easi, fast, money, superb, super, power, modul, straightforward, outstand, smart, month, speechless, stay
+Topic 8: chatgpt, better, pretti, woow, fastest, thrill, luck, compar, soo, hate, fraction, listen, other, hit, allah
+Topic 9: applic, world, human, artifici, futur, intellig, gift, life, beauti, revolut, technolog, advanc, platform, cuz, boss
+Topic 10: amaz, thank, seen, ever, help, realli, chaina, everyth, studi, fresh, alot, program, earth, never, full
+Topic 11: question, ask, anyth, answer, gave, simpl, someth, given, arunach, correct, tell, squar, pradesh, tiananmen, second
+Topic 12: gemini, faster, sure, hai, copilot, meta, competit, claud, compet, perplex, superior, par, per, look, batter
+Topic 13: search, web, deepthink, less, though, softwar, instead, around, avail, comput, turn, disabl, function, hey, youtub
+Topic 14: howev, tablet, landscap, small, android, english, font, size, consid, chang, languag, text, larg, speech, persian
+Topic 15: server, busi, later, show, alway, say, tri, messag, pleas, error, whenev, everytim, sever, massag, disgust
+Topic 16: give, point, result, accur, engin, chatgtp, queri, found, comprehens, unbias, smooth, marvel, flexibl, provid, especi
+Topic 17: good, chatgbt, assist, sens, killer, experi, educ, thankyou, aap, wanna, beter, hit, payment, identifi, decent
+Topic 18: star, fantast, definit, quit, kind, sometim, qualiti, rate, extrem, deserv, five, except, quick, speed, phenomen
+Topic 19: model, cost, reason, happi, deepseek, competitor, top, team, tier, capabl, congratul, expens, popular, prove, agi
+Topic 20: upload, file, photo, copi, put, document, past, network, pdf, although, pars, find, whatev, said, line
+Topic 21: limit, date, info, internet, inform, juli, news, censor, trust, basic, person, octob, fulli, knowledg, serious
+Topic 22: like, version, slower, altern, paid, still, discov, spywar, tho, anyway, powerful, chart, pilot, easier, common
+Topic 23: voic, add, option, talk, wish, miss, input, featur, yet, mode, instruct, call, convers, memori, aloud
+Topic 24: code, sign, send, email, receiv, verif, sent, registr, expir, enter, regist, otp, unabl, signup, arriv
+Topic 25: chat, gpt, bye, gtp, previous, nahi, weak, mile, rememb, prefer, got, rip, lose, compar, cri
+Topic 26: slow, repli, hype, poor, late, disappoint, slowli, frustrat, terribl, respons, overr, suck, wors, constant, empti
+Topic 27: bad, download, enough, worth, lol, process, often, inaccur, okay, thought, media, confus, laggi, test, write
+Topic 28: much, thing, bot, damn, rest, american, useful, complet, fabul, ahead, cours, insan, premium, gbt, extraordinari
+Topic 29: take, respond, long, worst, wast, freez, time, longer, min, translat, lag, week, respon, multipl, compat
+Topic 30: account, login, uninstal, log, fake, useless, garbag, fail, trash, even, gmail, googl, vpn, address, accept
+Topic 31: recommend, friend, incred, interfac, effici, reliabl, changer, intuit, research, deliv, whether, game, precis, truli, expect
+Topic 32: now, day, today, need, till, sinc, right, improv, watch, yesterday, releas, stuck, liter, ago, last
+Topic 33: imag, generat, also, pictur, million, review, make, without, notic, creation, abil, creat, script, even, recogn
+Topic 34: way, openai, mind, blow, chatbot, beat, subscript, crazi, honest, perform, unlik, cancel, opensourc, bro, built
+Topic 35: open, sourc, true, dollar, america, rival, market, llms, western, pay, challeng, close, made, price, llm
+Topic 36: great, think, deep, level, next, excit, surpris, seek, hat, see, favorit, fun, differ, magic, side
+Topic 37: know, peopl, privaci, term, polici, collect, bias, chines, censorship, agre, care, condit, delet, advertis, brain
+Topic 38: app, far, physic, other, among, tool, class, nepal, playstor, situat, regular, buy, payment, form, allah
+Topic 39: first, actual, cool, brilliant, stuff, big, yeah, word, aspect, special, impress, kinda, short, uniqu, alon
+Topic 40: just, can, bing, want, activ, gem, someon, finish, fascin, press, half, earth, promot, buy, btw
+
