@@ -1,0 +1,11 @@
+requests
+openpyxl
+pandas
+numpy
+scipy
+scikit-learn
+torch
+transformers
+datasets
+accelerate
+langdetect
