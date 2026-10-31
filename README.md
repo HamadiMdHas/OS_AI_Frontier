@@ -144,4 +144,4 @@ results in `outputs/`.
 
 ## License and citation
 
-Chalmers Tekniska Högskola 
+Chalmers Tekniska Högskola (c)
