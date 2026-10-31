@@ -1,5 +1,5 @@
 # OS_AI_Frontier
-Work in progress
+This project consists of a multi-step analytical pipeline that combines structural topic modeling and LLM categorization (using Llama 3.1 70B).
 
 .
 ├── README.md
